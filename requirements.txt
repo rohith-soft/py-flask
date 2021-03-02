@@ -1,0 +1,10 @@
+flask-cors
+flask-migrate
+flask-script
+flask-sqlalchemy
+flask
+psycopg2
+sqlalchemy-utils
+sqlalchemy
+requests
+marshmallow
