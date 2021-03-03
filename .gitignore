@@ -20,6 +20,7 @@ lib64/
 parts/
 sdist/
 var/
+/.pytest_cache
 wheels/
 share/python-wheels/
 *.egg-info/
